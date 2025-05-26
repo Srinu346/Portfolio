@@ -30,9 +30,14 @@ export const AboutSection = () => {
                             Get In Contact
                         </a>
 
-                        <a className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transistion-colors duration-300" href="">
+                        <a
+                            href="/Res.pdf"
+                            download
+                            className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                            >
                             Download Resume
-                        </a>
+                            </a>
+
                     </div>
 
                 </div>

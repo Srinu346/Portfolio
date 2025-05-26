@@ -81,14 +81,14 @@ export const ContactSection = () => {
                     <div className="pt-8">
                         <h4 className="font-medium mb-4">Connect With ME</h4>
                         <div className="flex justify-center space-x-4 text-muted-foreground">    
-                            <a>
-                                <InstagramIcon/>
+                            <a href="https://www.instagram.com/srinu_346/">
+                                <InstagramIcon />
                             </a>
-                            <a>
+                            <a href="https://www.linkedin.com/in/akellasrinivas03/" target="_blank" rel="noopener noreferrer">
                                 <Linkedin/>
                             </a>
-                            <a>
-                                <TwitterIcon/>
+                            <a href="https://x.com/AKELLASRINIVAS9">
+                                <TwitterIcon />
                             </a>
                             <a>
                                 <Youtube/>

@@ -68,7 +68,7 @@ export const ProjectSection = () => {
                 </div>
 
                 <div className="text-center mt-12">
-                    <a className="cosmic-button w-fit flex itmes-center mx-auto gap-2" href="#" target="_blank">
+                    <a className="cosmic-button w-fit flex itmes-center mx-auto gap-2" href="https://github.com/Srinu346" target="_blank">
                         Check My GitHub <ArrowRight size={16} />
                     </a>
                 </div>
