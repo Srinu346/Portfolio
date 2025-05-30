@@ -17,7 +17,7 @@ export const HeroSection = () => {
 
 
                     <p className="text-lg md:text-xl max-2-2xl text-muted-foreground opacity-0 animate-fade-in-delay-3 ">
-                            I am a passionate software engineer with a focus on web development and a love for creating innovative solutions.
+                            I am a passionate BTech student with a focus on web development and a love for creating innovative solutions.
                             I am always eager to learn and grow in my field, and I am excited to share my journey with you.
                     </p>
 
