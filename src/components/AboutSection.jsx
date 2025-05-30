@@ -72,8 +72,8 @@ export const AboutSection = () => {
                                     <Briefcase className="h-6 w-6 text-primary"/>
                                 </div>
                                 <div className="text-left">
-                                        <h3 className="text-lg font-semibold">Work Experience</h3>
-                                        <p className="text-muted-foreground">I have worked on various projects in different domains.</p>
+                                        <h3 className="text-lg font-semibold">Projects</h3>
+                                        <p className="text-muted-foreground">I have worked on different web and open source projects.</p>
                                     </div>
                             </div>
                         </div>
